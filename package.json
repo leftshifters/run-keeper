@@ -1,0 +1,11 @@
+{
+	"name": "run-keeper",
+	"version": "0.0.1",
+	"repository": "https://github.com/vxtindia/run-keeper.git",
+	"description": "Allows you to connect to runkeepr and fetch data",
+	"keywords": [ "run-keeper", "fitness", "gps" ],
+	"dependencies": {
+		"request": "2.27.0"
+	},
+	"license": "MIT"
+}
