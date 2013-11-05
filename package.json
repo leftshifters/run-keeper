@@ -2,9 +2,15 @@
 	"name": "run-keeper",
 	"version": "0.0.1",
 	"repository": "https://github.com/vxtindia/run-keeper.git",
+	"author": "Sudhanshu Raheja",
 	"description": "Allows you to connect to runkeepr and fetch data",
 	"keywords": [ "run-keeper", "fitness", "gps" ],
+	"repository": {
+		"url": "https://github.com/vxtindia/run-keeper"
+	},
 	"dependencies": {
+		"express": "3.4.0",
+		"jade": "*",
 		"request": "2.27.0"
 	},
 	"license": "MIT"
