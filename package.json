@@ -9,7 +9,7 @@
 		"url": "https://github.com/vxtindia/run-keeper"
 	},
 	"dependencies": {
-		"express": "3.4.0",
+		"express": "4.17.1",
 		"jade": "*",
 		"request": "2.88.2"
 	},
